@@ -1,3 +1,5 @@
+Time to complete: 20 hours
+
 # Use antd in create-react-app ✨
 
 [Create React App](https://facebook.github.io/create-react-app/) + [Ant Design](https://ant.design).
